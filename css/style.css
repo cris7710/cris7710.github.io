@@ -1376,3 +1376,17 @@ pre .javascript .function {
   list-style-type: disc;
   margin-left: 20px;
 }
+
+
+
+
+
+.article-entry p {
+  overflow-wrap: break-word; /* 或者 word-wrap: break-word; */
+}
+
+
+
+
+
+
